@@ -492,7 +492,7 @@ input {
     z-index: 1;
     transition: color 0.5s;
     top: -299%;
-    left: 80%;
+    left: 99%;
 }
 
 .search_btn a span {
