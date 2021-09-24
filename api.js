@@ -8,6 +8,7 @@ function getData(){
         console.log("inside sec");
         console.log(data);
     })
+//     fuck you
 }
 console.log("before runi")
 getData()
